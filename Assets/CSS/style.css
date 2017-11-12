@@ -270,7 +270,7 @@ form {
   left:0;
   margin-left: 0;
   font-color: #4aaaa5;
-  /*margin-left: 20px;*/
+  margin-left: 20px;
   padding:left;
 }
 .tabs{
@@ -283,7 +283,7 @@ form {
  @media screen and (max-width: 768px) {
 
 .myname{
-    background-color:red;
+    background-color:#4aaaa5;
     width:100%;
     margin-left:0px;
 
@@ -298,9 +298,9 @@ form {
     height:50px;
   }
 .tabs{
-  width:100%;
+  width:15%;
+  margin:0 auto;
 }
-
 
 }
 
@@ -309,6 +309,12 @@ form {
 @media screen and (max-width: 640px) {
   .myname{
     background-color:blue;
+  }
+  .aboutme{
+    width:500px;
+  }
+  p{
+    text-align:left;
   }
 
 
