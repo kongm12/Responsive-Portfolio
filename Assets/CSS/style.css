@@ -308,7 +308,7 @@ form {
 
 @media screen and (max-width: 640px) {
   .myname{
-    background-color:blue;
+    background-color:#4aaaa5;
   }
   .aboutme{
     width:500px;
